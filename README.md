@@ -9,7 +9,7 @@ This is just a backup in case of Google Project Hosting going down.
 
 If you are original author of this project and do not want me to store it - send me a message and I will remove it.
 
-All credits go to @alexruiz
+All credits go to @alexruiz (https://github.com/alexruiz)
 
 
 Below is information from original repo:
